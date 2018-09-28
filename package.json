@@ -1,0 +1,20 @@
+{
+  "name": "player-warriorjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Yax <mig_dj@hotmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myaxt/player-warriorjs.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/myaxt/player-warriorjs/issues"
+  },
+  "homepage": "https://github.com/myaxt/player-warriorjs#readme"
+}
